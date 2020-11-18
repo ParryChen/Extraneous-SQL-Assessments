@@ -50,8 +50,3 @@ FROM (
     ) O
 JOIN Drizly Brands B ON O.BRAND_ID = B.BRAND_ID
 WHERE O.rank = 3 AND B.HOLDING_COMPANY_NAME = 'Diageo';
-
-### Additional
-
-I have also scored 100% on the following HackerRank SQL assessment. 
-https://www.hackerrank.com/test/3kp1rtsj978/login?b=eyJ1c2VybmFtZSI6InBhcnJ5MTk5NkBnbWFpbC5jb20iLCJwYXNzd29yZCI6IjIyMjIxYmRkIiwiaGlkZSI6dHJ1ZSwiYWNjb21tb2RhdGlvbnMiOnsiYWRkaXRpb25hbF90aW1lX3BlcmNlbnQiOjB9fQ==
