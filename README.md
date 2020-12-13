@@ -1,7 +1,7 @@
 ### Summary
 ---
 
-In this repo, you will find a variety of completed SQL assessments. You can find a written assessment below. 
+In this repo, you will find a variety of completed SQL assessments. You can find a written assessment below. I have also gotten 100% on a number of SQL assessments via HackerRank and Codility. 
 
 ### Assessment
 ---
